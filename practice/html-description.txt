@@ -1,0 +1,80 @@
+1) What is HTML?
+----------------
+	=> HTML stands for Hyper Text Markup Language
+	=> HTML is the standard markup language for creating Web pages
+	=> HTML consists of collection of elements
+	=> HTML elements tell the browser how to display the content
+
+2) What is an HTML Element? 
+---------------------------
+	=> An HTML element is defined by a start tag, some content, and an end tag:
+		<tagname>Content goes here...</tagname>
+
+	Example:
+		<h1>My First Heading</h1>
+		<p>My first paragraph.</p>
+
+3) Which Editor is best ?
+-------------------------
+	=> Notepad++, Sublime Text, Visual Studio Code, Atom, IntelIJ IDE ....more
+
+4) What is a Attributes ?
+-------------------------
+	=> Attributes provide additional information about elements
+	=> Attributes are always specified in the tag
+	=> Attributes usually come in name/value pairs like: name="value"
+
+	Example:
+		<img src="abc.jpg" width="100" height="100"  />
+
+5) How to create HTML file and How to run HTML file ?
+-----------------------------------------------------
+	=> let's create
+
+6) What are Tags will dicuss  ?
+------------------------------
+	=> meta
+	=> head
+	=> title
+	=> body
+	=> heading tag
+	=> Paragraph tag
+	=> horizontal line
+	=> Image tag
+	=> table tag
+	=> list tag (ol, ul)
+	=> Iframe tag
+
+
+Table
+-----
+table
+
+thead -> table heading
+tr -> table row
+th -> table head
+
+
+tbody -> table body
+td	  -> table data
+
+
+colspan -> Spaning(merge) columns
+rowspan -> Spaning(merge) Rows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
